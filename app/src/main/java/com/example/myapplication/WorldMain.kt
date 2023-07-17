@@ -6,4 +6,4 @@ fun main(){
     print("안녕하세요")
     print("push")
 }
-https://github.com/somethinginthebox/test_repo.git
+
